@@ -1,4 +1,4 @@
-#### Brianna's Ada C12 Capstone Project (backend)
+# Brianna's Ada C12 Capstone Project (backend)
 For frontend info, see: https://github.com/brikemp/capstone_frontend
 
 The backend of this app was created using Spring Boot
