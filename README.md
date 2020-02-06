@@ -7,6 +7,7 @@ For walkthrough to install Docker for PostgreSQL Database see:
 [https://www.youtube.com/watch?v=8fbfHu8isI4&t=1681s](https://www.youtube.com/watch?v=8fbfHu8isI4&t=1681s)
 
 ## APIs
+Obtaining tokens from the APIs below are required for the backend to fetch data properly
 
 ### Twitter
 Java Library: http://twitter4j.org/en/index.html - import through maven (details in pom.yml)
@@ -18,4 +19,4 @@ Get API info from: https://developer.twitter.com/en/docs
 
 ## Additional Info
 App runs on [http://localhost:8080](http://localhost:8080)
-Maven depencies found in pom.yml
+Maven depencies are required, can be found in pom.yml
